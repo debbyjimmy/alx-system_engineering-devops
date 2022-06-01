@@ -1,0 +1,1 @@
+0-alias: this script creates an alais with name and value
