@@ -1,2 +1,2 @@
 #!/bin/bash
-cd -
+"$(expr $TRUEKNOWLEDGE + $128)"
