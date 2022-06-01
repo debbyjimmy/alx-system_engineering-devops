@@ -1,2 +1,2 @@
 #!/bin/bash
-cd -
+printf "NUM =%.2f\n"
